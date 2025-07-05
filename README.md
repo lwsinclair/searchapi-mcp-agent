@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rmmargt-searchapi-mcp-agent-badge.png)](https://mseep.ai/app/rmmargt-searchapi-mcp-agent)
+
 # SearchAPI MCP Agent with A2A 支持 | SearchAPI MCP Agent with A2A Support
 
 一个基于 Agent-to-Agent (A2A) 协议的 SearchAPI 代理，通过 Model Context Protocol (MCP) 系统集成了多种搜索 API 工具。
